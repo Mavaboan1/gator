@@ -1,4 +1,4 @@
-module main
+module github.com/Mavaboan1/gator
 
 go 1.24.5
 
