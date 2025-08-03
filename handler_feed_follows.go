@@ -3,7 +3,7 @@ package main
 import (
 	"context"
 	"fmt"
-	"main/internal/database"
+	"github.com/Mavaboan1/gator/internal/database"
 	"time"
 
 	"github.com/google/uuid"

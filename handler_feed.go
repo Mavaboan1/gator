@@ -3,9 +3,9 @@ package main
 import (
 	"context"
 	"fmt"
+	"github.com/Mavaboan1/gator/internal/database"
 	"github.com/google/uuid"
 	"log"
-	"main/internal/database"
 	"time"
 )
 

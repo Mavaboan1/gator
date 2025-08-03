@@ -2,9 +2,9 @@ package main
 
 import (
 	"database/sql"
+	"github.com/Mavaboan1/gator/internal/config"
+	"github.com/Mavaboan1/gator/internal/database"
 	"log"
-	"main/internal/config"
-	"main/internal/database"
 	"os"
 )
 import _ "github.com/lib/pq"
